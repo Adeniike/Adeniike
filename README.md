@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adetoye Adenike</h1>
 <h3 align="center">A Dynamic and innovative Data Analyst.
 
-- 🔭 I’m currently working on **DSA PROJECT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
