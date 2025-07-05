@@ -2,7 +2,7 @@
 <h3 align="center">A Dynamic and innovative Data Analyst, focused on transforming raw data into meaningful business insights. 
 I work with SQL, Excel, and Power BI to clean, analyze, and visualize data. My skills include dashboard creation, reporting, and statistical analysis, all supported by strong critical thinking and problem-solving abilities.</h3>
 
-- 🔭 I’m currently working on **A**
+- 🔭 I’m currently working on **DSA PROJECT**
 
 - 📫 How to reach me **adetoyedamilola2@gmail.com**
 
