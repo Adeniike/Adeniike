@@ -6,7 +6,7 @@
 <p align="left">
 
 <p align="left">
-  <a href="gmail :your.adetoyedamilola2@gmail.com" target="blank">
+  <a href="gmail:your.adetoyedamilola2@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" alt="email" height="30" width="40" />
   </a>
 
